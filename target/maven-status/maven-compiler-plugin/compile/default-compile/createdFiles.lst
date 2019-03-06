@@ -1,0 +1,5 @@
+org/ia/stores/StatusStorage.class
+org/ia/stores/StatusController.class
+org/ia/stores/Status.class
+org/ia/stores/StoresApplication.class
+org/ia/stores/StatusException.class
